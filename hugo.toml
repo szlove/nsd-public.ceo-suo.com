@@ -1,6 +1,6 @@
 baseURL = 'https://nsd-public.ceo-suo.com/'
 languageCode = 'ko-KR'
-title = '낙성대 퍼블릭 벨루: BELU'
+title = '낙성대 퍼블릭 벨루 - 실시간 정보'
 
 [params]
   isAdsEnabled = true
